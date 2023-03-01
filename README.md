@@ -1,3 +1,6 @@
+Original repository.   
+https://github.com/uber/kubernetes-test-infra.    
+
 # test-infra
 
 [![GoDoc](https://godoc.org/k8s.io/test-infra?status.svg)](https://godoc.org/k8s.io/test-infra)
